@@ -1,0 +1,5 @@
+tup1=('a','b','c','d')
+string1="?".join(tup1)
+print(type(string1))
+print(tup1)
+print(string1)

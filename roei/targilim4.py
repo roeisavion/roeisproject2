@@ -1,0 +1,5 @@
+ones=int(input("ones"))
+tens=int(input("tens"))
+hundreds=int(input("hundreds"))
+print(hundreds*100+tens*10+ones)
+print((hundreds*100+tens*10+ones)*2)
